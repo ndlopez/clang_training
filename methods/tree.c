@@ -105,7 +105,7 @@ int main(){
     printf("[x] element not found (%d).\n",i);
   printf("\n Preorder traversal: ");
   pre_order_traversal(root);
-  printf("\n Inrder traversal: ");
+  printf("\n In order traversal: ");
   inorder_traversal(root);
   printf("\n Post order traversal: ");
   printf("\n");
